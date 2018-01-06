@@ -1,0 +1,7 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\GenericBoxOfString\bin\Debug\GenericBoxOfString.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\GenericBoxOfString\bin\Debug\GenericBoxOfString.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\GenericBoxOfString\bin\Debug\GenericBoxOfString.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\GenericBoxOfString\obj\Debug\GenericBoxOfString.csprojResolveAssemblyReference.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\GenericBoxOfString\obj\Debug\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\GenericBoxOfString\obj\Debug\GenericBoxOfString.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\GenericBoxOfString\obj\Debug\GenericBoxOfString.pdb

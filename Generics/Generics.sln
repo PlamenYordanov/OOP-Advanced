@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfString", "GenericBoxOfString\GenericBoxOfString.csproj", "{01EF4144-5BAA-4E7E-8A4B-A0A5E59BE375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomList", "CustomList\CustomList.csproj", "{5F2B459B-D299-4E45-B351-EC9C63D86EEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{01EF4144-5BAA-4E7E-8A4B-A0A5E59BE375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01EF4144-5BAA-4E7E-8A4B-A0A5E59BE375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01EF4144-5BAA-4E7E-8A4B-A0A5E59BE375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2B459B-D299-4E45-B351-EC9C63D86EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2B459B-D299-4E45-B351-EC9C63D86EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2B459B-D299-4E45-B351-EC9C63D86EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2B459B-D299-4E45-B351-EC9C63D86EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
