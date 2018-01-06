@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\BorderPatrol\bin\Debug\BorderPatrol.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\BorderPatrol\bin\Debug\BorderPatrol.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\BorderPatrol\bin\Debug\BorderPatrol.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\BorderPatrol\obj\Debug\BorderPatrol.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\BorderPatrol\obj\Debug\BorderPatrol.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\BorderPatrol\obj\Debug\BorderPatrol.pdb
