@@ -1,16 +1,23 @@
-﻿namespace GenericBoxOfString
+﻿using System;
+
+namespace GenericBoxOfString
 {
-    public class Box<T>
+    public class Box<T> where T: IComparable
     {
         public Box(T value)
         {
-            this.Value = value;
+            this.Element = value;
         }
-        public T Value { get; set; }
+        public T Element { get; set; }
+
+        public int CompareTo(T other)
+        {
+            return other.CompareTo(Element);
+        }
 
         public override string ToString()
         {
-            return $"{Value.GetType().FullName}: {this.Value}";
+            return $"{Element.GetType().FullName}: {this.Element}";
         }
     }
 }
