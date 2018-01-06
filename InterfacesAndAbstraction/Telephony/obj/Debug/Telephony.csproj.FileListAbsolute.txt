@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Telephony\bin\Debug\Telephony.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Telephony\bin\Debug\Telephony.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Telephony\bin\Debug\Telephony.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Telephony\obj\Debug\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Telephony\obj\Debug\Telephony.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Telephony\obj\Debug\Telephony.pdb

@@ -1,0 +1,7 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\MilitaryElite\bin\Debug\MilitaryElite.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\MilitaryElite\bin\Debug\MilitaryElite.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\MilitaryElite\bin\Debug\MilitaryElite.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\MilitaryElite\obj\Debug\MilitaryElite.csprojResolveAssemblyReference.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\MilitaryElite\obj\Debug\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\MilitaryElite\obj\Debug\MilitaryElite.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\MilitaryElite\obj\Debug\MilitaryElite.pdb

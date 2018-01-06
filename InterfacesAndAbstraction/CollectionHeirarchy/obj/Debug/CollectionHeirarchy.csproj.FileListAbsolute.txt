@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\CollectionHeirarchy\bin\Debug\CollectionHeirarchy.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\CollectionHeirarchy\bin\Debug\CollectionHeirarchy.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\CollectionHeirarchy\bin\Debug\CollectionHeirarchy.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\CollectionHeirarchy\obj\Debug\CollectionHeirarchy.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\CollectionHeirarchy\obj\Debug\CollectionHeirarchy.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\CollectionHeirarchy\obj\Debug\CollectionHeirarchy.pdb

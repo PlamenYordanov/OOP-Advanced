@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\DefineAnInterface\bin\Debug\DefineAnInterface.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\DefineAnInterface\bin\Debug\DefineAnInterface.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\DefineAnInterface\bin\Debug\DefineAnInterface.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\DefineAnInterface\obj\Debug\DefineAnInterface.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\DefineAnInterface\obj\Debug\DefineAnInterface.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\DefineAnInterface\obj\Debug\DefineAnInterface.pdb

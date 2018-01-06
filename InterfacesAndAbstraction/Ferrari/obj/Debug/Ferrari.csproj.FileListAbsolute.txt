@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Ferrari\bin\Debug\Ferrari.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Ferrari\bin\Debug\Ferrari.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Ferrari\bin\Debug\Ferrari.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Ferrari\obj\Debug\Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Ferrari\obj\Debug\Ferrari.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\InterfacesAndAbstraction\Ferrari\obj\Debug\Ferrari.pdb
