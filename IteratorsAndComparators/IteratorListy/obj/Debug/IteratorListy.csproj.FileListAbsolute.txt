@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\IteratorListy\bin\Debug\IteratorListy.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\IteratorListy\bin\Debug\IteratorListy.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\IteratorListy\bin\Debug\IteratorListy.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\IteratorListy\obj\Debug\IteratorListy.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\IteratorListy\obj\Debug\IteratorListy.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\IteratorListy\obj\Debug\IteratorListy.pdb
