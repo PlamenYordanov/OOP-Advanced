@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\CustomList\bin\Debug\CustomList.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\CustomList\obj\Debug\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\CustomList\obj\Debug\CustomList.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\Generics\CustomList\obj\Debug\CustomList.pdb
