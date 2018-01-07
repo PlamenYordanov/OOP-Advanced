@@ -9,20 +9,23 @@
             var nameAddress = Console.ReadLine().Split();
             var fullName = $"{nameAddress[0]} {nameAddress[1]}";
             var address = nameAddress[2];
-            var nameTuple = new Tuple<string, string>(fullName, address);
+            var town = nameAddress[3];
+            var nameTuple = new Tuple<string, string, string>(fullName, address, town);
             Console.WriteLine(nameTuple);
 
             var nameBeer = Console.ReadLine().Split();
             var name = nameBeer[0];
             var beerAmount = int.Parse(nameBeer[1]);
-            var beerTuple = new Tuple<string, int>(name, beerAmount);
+            bool isDrunk = nameBeer[2] == "drunk" ? true : false;
+            var beerTuple = new Tuple<string, int, bool>(name, beerAmount, isDrunk);
             Console.WriteLine(beerTuple);
 
-            var intDouble = Console.ReadLine().Split();
-            var intValue = int.Parse(intDouble[0]);
-            var doubleValue = double.Parse(intDouble[1]);
-            var intDoubleTuple = new Tuple<int, double>(intValue, doubleValue);
-            Console.WriteLine(intDoubleTuple);
+            var nameBalanceBank = Console.ReadLine().Split();
+            var accountHolder = nameBalanceBank[0];
+            var balance = double.Parse(nameBalanceBank[1]);
+            var bankName = nameBalanceBank[2];
+            var bankInfo = new Tuple<string, double, string>(accountHolder, balance, bankName);
+            Console.WriteLine(bankInfo);
         }
     }
 }
