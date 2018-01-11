@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StackExercise\bin\Debug\StackExercise.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StackExercise\bin\Debug\StackExercise.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StackExercise\bin\Debug\StackExercise.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StackExercise\obj\Debug\StackExercise.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StackExercise\obj\Debug\StackExercise.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StackExercise\obj\Debug\StackExercise.pdb

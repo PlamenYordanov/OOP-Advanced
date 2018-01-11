@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\Froggy\bin\Debug\Froggy.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\Froggy\bin\Debug\Froggy.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\Froggy\bin\Debug\Froggy.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\Froggy\obj\Debug\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\Froggy\obj\Debug\Froggy.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\Froggy\obj\Debug\Froggy.pdb
