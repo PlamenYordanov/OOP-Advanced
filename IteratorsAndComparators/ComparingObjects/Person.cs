@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-
+﻿
 namespace ComparingObjects
 {
+    using System;
+
     public class Person : IComparable<Person>
     {
         public Person(string name, int age, string town)
