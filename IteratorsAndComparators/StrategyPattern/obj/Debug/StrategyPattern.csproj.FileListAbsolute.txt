@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\StrategyPattern.pdb
