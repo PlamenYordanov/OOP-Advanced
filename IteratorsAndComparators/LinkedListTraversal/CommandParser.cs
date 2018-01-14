@@ -8,7 +8,6 @@
 
         public CommandParser(MyLinkedList list)
         {
-            this.linkedList = new MyLinkedList();
             this.linkedList = list;
         }
         public void ParseCommand(string command, int value)
