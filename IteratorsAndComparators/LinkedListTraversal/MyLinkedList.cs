@@ -1,8 +1,10 @@
 ﻿namespace LinkedListTraversal
 {
     using System;
+    using System.Collections;
+    using System.Collections.Generic;
 
-    public class MyLinkedList
+    public class MyLinkedList : IEnumerable<Node>
     {
         public MyLinkedList()
         {
@@ -51,7 +53,7 @@
                     {
                         break;
                     }
-                    Node nextNode = node.Next;
+                    var nextNode = node.Next;
 
                     if (nextNode.Number == number)
                     {
@@ -68,6 +70,22 @@
         public Node First()
         {
             return this.headNode;
+        }
+
+        public IEnumerator<Node> GetEnumerator()
+        {
+            Node node = this.headNode;
+
+            for (int i = 0; i < this.count; i++)
+            {
+                yield return node;
+                node = node.Next;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return this.GetEnumerator();
         }
     }
 }

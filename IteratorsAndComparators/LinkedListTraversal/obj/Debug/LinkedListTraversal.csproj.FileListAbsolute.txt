@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\LinkedListTraversal\bin\Debug\LinkedListTraversal.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\LinkedListTraversal\bin\Debug\LinkedListTraversal.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\LinkedListTraversal\bin\Debug\LinkedListTraversal.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\LinkedListTraversal\obj\Debug\LinkedListTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\LinkedListTraversal\obj\Debug\LinkedListTraversal.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\IteratorsAndComparators\LinkedListTraversal\obj\Debug\LinkedListTraversal.pdb
