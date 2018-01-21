@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace LinkedListTraversal
+﻿namespace LinkedListTraversal
 {
     public class Node
     {

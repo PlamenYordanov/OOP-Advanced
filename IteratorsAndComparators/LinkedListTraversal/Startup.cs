@@ -15,7 +15,6 @@
                 var value = int.Parse(input[1]);
                 commandParser.ParseCommand(command, value);
             }
-
             Console.WriteLine(list.Count);
             list.Print();
         }
