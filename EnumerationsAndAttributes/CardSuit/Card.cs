@@ -17,5 +17,9 @@
         {
             return (int)this.suit + (int)this.rank;
         }
+        public override string ToString()
+        {
+            return $"Card name: {this.rank} of {this.suit}; Card power: {this.GetPower()}";
+        }
     }
 }

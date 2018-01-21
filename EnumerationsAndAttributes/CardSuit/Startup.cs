@@ -12,7 +12,7 @@ namespace CardSuit
             var cardSuit = (CardSuit)Enum.Parse(typeof(CardSuit), Console.ReadLine());
 
             var card = new Card(cardRank, cardSuit);
-            Console.WriteLine($"Card name: {cardRank} of {cardSuit}; Card power: {card.GetPower()}");
+            Console.WriteLine(card);
         }
 
 
