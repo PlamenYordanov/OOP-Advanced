@@ -8,14 +8,14 @@ namespace CardSuit
     {
         public static void Main(string[] args)
         {
-            var suits = GetValues<CardRanks>();
-            Console.WriteLine($"Card Ranks:");
-            foreach (var suit in suits)
-            {
+            var cardRank = (CardRank)Enum.Parse(typeof(CardRank), Console.ReadLine());
+            var cardSuit = (CardSuit)Enum.Parse(typeof(CardSuit), Console.ReadLine());
 
-                Console.WriteLine($"Ordinal value: {(int)suit}; Name value: {suit}");
-            }
+            var card = new Card(cardRank, cardSuit);
+            Console.WriteLine($"Card name: {cardRank} of {cardSuit}; Card power: {card.GetPower()}");
         }
+
+
         public static IEnumerable<T> GetValues<T>()
         {
             return Enum.GetValues(typeof(T)).Cast<T>();
