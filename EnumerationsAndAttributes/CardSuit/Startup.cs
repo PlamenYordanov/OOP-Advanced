@@ -8,11 +8,15 @@ namespace CardSuit
     {
         public static void Main(string[] args)
         {
-            var cardRank = (CardRank)Enum.Parse(typeof(CardRank), Console.ReadLine());
-            var cardSuit = (CardSuit)Enum.Parse(typeof(CardSuit), Console.ReadLine());
+            var c1Suit = (CardRank)Enum.Parse(typeof(CardRank), Console.ReadLine());
+            var c1Rank = (CardSuit)Enum.Parse(typeof(CardSuit), Console.ReadLine());
 
-            var card = new Card(cardRank, cardSuit);
-            Console.WriteLine(card);
+            var c2Suit = (CardRank)Enum.Parse(typeof(CardRank), Console.ReadLine());
+            var c2Rank = (CardSuit)Enum.Parse(typeof(CardSuit), Console.ReadLine());
+
+            var firstCard = new Card(c1Suit, c1Rank);
+            var secondCard = new Card(c2Suit, c2Rank);
+            Console.WriteLine(firstCard > secondCard ? firstCard : secondCard);
         }
 
 
