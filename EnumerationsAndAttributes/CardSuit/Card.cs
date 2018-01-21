@@ -2,22 +2,34 @@
 {
     using System;
     using CardInfo;
+    using System.Collections.Generic;
+    using System.Linq;
 
     public class Card : IComparable<Card>
     {
+        private CardSuit suit;
+        private CardRank rank;
+
+        private IEnumerable<CardSuit> suits = EnumUtil.GetValues<CardSuit>();
+        private IEnumerable<CardRank> ranks = EnumUtil.GetValues<CardRank>();
+
+        public CardSuit Suit { get; set; }
+        
+        public CardRank Rank { get; set; }
+       
         public Card(CardRank rank, CardSuit suit)
         {
             this.Suit = suit;
             this.Rank = rank;
         }
 
-        public CardSuit Suit { get; set; }
-
-        public CardRank Rank { get; set; }
-
         public int CompareTo(Card other)
         {
-            return this.GetPower().CompareTo(other.GetPower());
+            if (this.rank != other.rank)
+            {
+                return this.rank.CompareTo(other.rank);
+            }
+            return this.suit.CompareTo(other.suit);
         }
 
         public int GetPower()

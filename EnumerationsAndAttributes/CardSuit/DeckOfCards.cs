@@ -2,7 +2,6 @@
 {
     using CardInfo;
     using System;
-    using System.Linq;
     using System.Collections.Generic;
 
     public class DeckOfCards
@@ -11,8 +10,8 @@
 
         public void Populate()
         {
-            var suits = GetValues<CardSuit>();
-            var ranks = GetValues<CardRank>();
+            var suits = EnumUtil.GetValues<CardSuit>();
+            var ranks = EnumUtil.GetValues<CardRank>();
 
             foreach (var suit in suits)
             {
@@ -34,9 +33,6 @@
         {
             return this.deckOfCards.Count;
         }
-        public static IEnumerable<T> GetValues<T>()
-        {
-            return Enum.GetValues(typeof(T)).Cast<T>();
-        }
+        
     }
 }
