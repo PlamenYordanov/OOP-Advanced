@@ -8,8 +8,8 @@ namespace CardSuit
     {
         public static void Main(string[] args)
         {
-            var suits = GetValues<CardSuits>();
-            Console.WriteLine($"Card Suits:");
+            var suits = GetValues<CardRanks>();
+            Console.WriteLine($"Card Ranks:");
             foreach (var suit in suits)
             {
 
