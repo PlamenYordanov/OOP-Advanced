@@ -1,0 +1,6 @@
+C:\Users\Plamen Yordanov\source\OOP Advanced\EnumerationsAndAttributes\CardSuit\bin\Debug\CardSuit.exe.config
+C:\Users\Plamen Yordanov\source\OOP Advanced\EnumerationsAndAttributes\CardSuit\bin\Debug\CardSuit.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\EnumerationsAndAttributes\CardSuit\bin\Debug\CardSuit.pdb
+C:\Users\Plamen Yordanov\source\OOP Advanced\EnumerationsAndAttributes\CardSuit\obj\Debug\CardSuit.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Advanced\EnumerationsAndAttributes\CardSuit\obj\Debug\CardSuit.exe
+C:\Users\Plamen Yordanov\source\OOP Advanced\EnumerationsAndAttributes\CardSuit\obj\Debug\CardSuit.pdb

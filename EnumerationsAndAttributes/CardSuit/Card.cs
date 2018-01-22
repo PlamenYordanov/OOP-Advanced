@@ -7,16 +7,22 @@
 
     public class Card : IComparable<Card>
     {
+
         private CardSuit suit;
         private CardRank rank;
 
-        private IEnumerable<CardSuit> suits = EnumUtil.GetValues<CardSuit>();
-        private IEnumerable<CardRank> ranks = EnumUtil.GetValues<CardRank>();
+        public CardSuit Suit
+        {
+            get { return this.suit; }
 
-        public CardSuit Suit { get; set; }
-        
-        public CardRank Rank { get; set; }
-       
+            private set
+            {
+                this.suit = value;
+            }
+        }
+
+        public CardRank Rank { get { return this.rank; } private set { this.rank = value; } }
+
         public Card(CardRank rank, CardSuit suit)
         {
             this.Suit = suit;

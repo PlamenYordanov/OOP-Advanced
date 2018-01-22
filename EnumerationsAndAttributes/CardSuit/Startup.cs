@@ -10,26 +10,28 @@
         public static void Main(string[] args)
         {
 
-            string name1 = Console.ReadLine();
-            string name2 = Console.ReadLine();
-            List<Card> deltCards = new List<Card>();
-            var player1 = new Player(name1);
-            AddCardsToPlayer(player1, deltCards);
+            var card = new Card(CardRank.Ace, CardSuit.Clubs);
+            Console.WriteLine();
+            //string name1 = Console.ReadLine();
+            //string name2 = Console.ReadLine();
+            //List<Card> deltCards = new List<Card>();
+            //var player1 = new Player(name1);
+            //AddCardsToPlayer(player1, deltCards);
 
-            var player2 = new Player(name2);
-            AddCardsToPlayer(player2, deltCards);
+            //var player2 = new Player(name2);
+            //AddCardsToPlayer(player2, deltCards);
 
-            var firstBestCard = player1.Cards.OrderByDescending(x => x.GetPower()).FirstOrDefault();
-            var secondBestCard = player2.Cards.OrderByDescending(x => x.GetPower()).FirstOrDefault();
+            //var firstBestCard = player1.Cards.OrderByDescending(x => x.GetPower()).FirstOrDefault();
+            //var secondBestCard = player2.Cards.OrderByDescending(x => x.GetPower()).FirstOrDefault();
             
-            if (firstBestCard > secondBestCard)
-            {
-                Console.WriteLine($"{player1.Name} wins with {firstBestCard.Rank} of {firstBestCard.Suit}.");
-            }
-            else
-            {
-                Console.WriteLine($"{player2.Name} wins with {secondBestCard.Rank} of {secondBestCard.Suit}.");
-            }
+            //if (firstBestCard > secondBestCard)
+            //{
+            //    Console.WriteLine($"{player1.Name} wins with {firstBestCard.Rank} of {firstBestCard.Suit}.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"{player2.Name} wins with {secondBestCard.Rank} of {secondBestCard.Suit}.");
+            //}
         }
 
         private static void AddCardsToPlayer(Player player, List<Card> deltCards)
